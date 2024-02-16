@@ -1,0 +1,10 @@
+version=1
+id=3161711698
+title=No water
+description=A simple mod that removes water from faucets, toilet barrels and other places where it remains after the central water supply is turned off.
+description=
+description=[b]WORKS IN SINLEPLAYER AND MULTIPLAYER![/b].
+description=
+description=This mod can be added and removed from your saves with no issues.
+tags=Build 41;Hardmode;Multiplayer
+visibility=public

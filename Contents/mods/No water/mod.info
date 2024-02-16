@@ -1,0 +1,4 @@
+name=No water
+id=NoWater
+description=Removes water from faucets, toilet barrels and other places where water may remain after the central water supply has been turned off.
+poster=poster.png
